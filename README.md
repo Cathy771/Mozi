@@ -60,7 +60,7 @@ Here's the data of our application:
 - Channel (Base Sepolia): channel-11
 
 - Proof of Testnet interaction:
-    - [SendTx](https://optimism-sepolia.blockscout.com/tx/0x9effaf67d7f35cbad354c5ce0f25ade9941615914662d055fee65a88bdba0df8)
+    - [SendTx](https://optimism-sepolia.blockscout.com/tx/0xf72198e3adcde40e734759c77b09f7e809095bc10bd01af02afd78c56e37947e)
 
 ## What we learned
 
