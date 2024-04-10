@@ -54,8 +54,8 @@ After following the steps above you should have interacted with the testnet. You
 
 Here's the data of our application:
 
-- Contract (OP Sepolia) : 0xac3d517d5ed9f0715eA067aA0b437A0aF5E28697
-- Contract (Base Sepolia): 0xac3d517d5ed9f0715eA067aA0b437A0aF5E28697
+- Contract (OP Sepolia) : 0x5D96F7647ABcBA28327A6486f54D4c0d9b56251b
+- Contract (Base Sepolia): 0x5D96F7647ABcBA28327A6486f54D4c0d9b56251b
 - Channel (OP Sepolia): channel-10
 - Channel (Base Sepolia): channel-11
 
