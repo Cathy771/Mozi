@@ -70,3 +70,6 @@ We learned a lot about IBC while using polymer
 
 Get more users, users are important
 Support ERC721 or 1155, I like these NFTs very much
+
+## UI Preview
+![](https://github.com/Cathy771/Mozi/blob/main/polymer_dapp.png)
